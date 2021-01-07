@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algos", "Algos\Algos.csproj", "{B5C6619C-43B3-40C8-8861-9D09B0F3426E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjection", "DependencyInjection\DependencyInjection.csproj", "{570CEC7B-FA88-4BD7-9B81-6474812C89DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5C6619C-43B3-40C8-8861-9D09B0F3426E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C6619C-43B3-40C8-8861-9D09B0F3426E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C6619C-43B3-40C8-8861-9D09B0F3426E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C6619C-43B3-40C8-8861-9D09B0F3426E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570CEC7B-FA88-4BD7-9B81-6474812C89DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570CEC7B-FA88-4BD7-9B81-6474812C89DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570CEC7B-FA88-4BD7-9B81-6474812C89DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570CEC7B-FA88-4BD7-9B81-6474812C89DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FA857FF-F9F3-4A46-AF9E-8C966ECA5257}
+	EndGlobalSection
+EndGlobal

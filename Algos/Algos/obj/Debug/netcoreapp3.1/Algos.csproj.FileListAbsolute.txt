@@ -1,0 +1,13 @@
+C:\Users\Michael\source\repos\Algos\Algos\bin\Debug\netcoreapp3.1\Algos.exe
+C:\Users\Michael\source\repos\Algos\Algos\bin\Debug\netcoreapp3.1\Algos.deps.json
+C:\Users\Michael\source\repos\Algos\Algos\bin\Debug\netcoreapp3.1\Algos.runtimeconfig.json
+C:\Users\Michael\source\repos\Algos\Algos\bin\Debug\netcoreapp3.1\Algos.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\Algos\Algos\bin\Debug\netcoreapp3.1\Algos.dll
+C:\Users\Michael\source\repos\Algos\Algos\bin\Debug\netcoreapp3.1\Algos.pdb
+C:\Users\Michael\source\repos\Algos\Algos\obj\Debug\netcoreapp3.1\Algos.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\Algos\Algos\obj\Debug\netcoreapp3.1\Algos.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\Algos\Algos\obj\Debug\netcoreapp3.1\Algos.AssemblyInfo.cs
+C:\Users\Michael\source\repos\Algos\Algos\obj\Debug\netcoreapp3.1\Algos.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\Algos\Algos\obj\Debug\netcoreapp3.1\Algos.dll
+C:\Users\Michael\source\repos\Algos\Algos\obj\Debug\netcoreapp3.1\Algos.pdb
+C:\Users\Michael\source\repos\Algos\Algos\obj\Debug\netcoreapp3.1\Algos.genruntimeconfig.cache

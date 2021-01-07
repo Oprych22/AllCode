@@ -1,0 +1,13 @@
+C:\Users\Michael\Documents\code\MatchingEngine\MatchingEngine\bin\Debug\netcoreapp3.1\MatchingEngine.exe
+C:\Users\Michael\Documents\code\MatchingEngine\MatchingEngine\bin\Debug\netcoreapp3.1\MatchingEngine.deps.json
+C:\Users\Michael\Documents\code\MatchingEngine\MatchingEngine\bin\Debug\netcoreapp3.1\MatchingEngine.runtimeconfig.json
+C:\Users\Michael\Documents\code\MatchingEngine\MatchingEngine\bin\Debug\netcoreapp3.1\MatchingEngine.runtimeconfig.dev.json
+C:\Users\Michael\Documents\code\MatchingEngine\MatchingEngine\bin\Debug\netcoreapp3.1\MatchingEngine.dll
+C:\Users\Michael\Documents\code\MatchingEngine\MatchingEngine\bin\Debug\netcoreapp3.1\MatchingEngine.pdb
+C:\Users\Michael\Documents\code\MatchingEngine\MatchingEngine\obj\Debug\netcoreapp3.1\MatchingEngine.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\code\MatchingEngine\MatchingEngine\obj\Debug\netcoreapp3.1\MatchingEngine.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\code\MatchingEngine\MatchingEngine\obj\Debug\netcoreapp3.1\MatchingEngine.AssemblyInfo.cs
+C:\Users\Michael\Documents\code\MatchingEngine\MatchingEngine\obj\Debug\netcoreapp3.1\MatchingEngine.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\code\MatchingEngine\MatchingEngine\obj\Debug\netcoreapp3.1\MatchingEngine.dll
+C:\Users\Michael\Documents\code\MatchingEngine\MatchingEngine\obj\Debug\netcoreapp3.1\MatchingEngine.pdb
+C:\Users\Michael\Documents\code\MatchingEngine\MatchingEngine\obj\Debug\netcoreapp3.1\MatchingEngine.genruntimeconfig.cache
